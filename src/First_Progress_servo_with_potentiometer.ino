@@ -17,7 +17,7 @@ void setup() {
   pwm.setPWMFreq(SERVO_FREQ); 
   delay(10);
   int initialPwm = map(0, 0, 180, SERVOMIN, SERVOMAX);
-  pwm.setPWM(2, 0, initialPwm); //Attaches pwm to driver set 2
+  pwm.setPWM(2, 0, initialPwm); 
   delay(500);
 }
 
