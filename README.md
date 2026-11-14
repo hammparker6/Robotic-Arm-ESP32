@@ -7,7 +7,7 @@ My first engineering project with the ESP32, now just simple components on a bre
 * **Issues:** This took me many hours more than it needed to. My first issue was my power supply was too weak for the servo, so I got a new one, but then the amps became too much for my wires, so I got new ones. My servo still wasn't moving though, and I troubleshooted for houres before discovering that the issue was the current draw of the servo upon booting up causing brownout, so I bought the capacitor to fix this issue sustainably and make this setup reliable.
 
 ### Setup Photo 
-<img width="3024" height="4032" alt="IMG_7497" src="https://github.com/user-attachments/assets/7104543d-e248-4ae0-ae61-b4e02f8964ba" />
+<img width="2989" height="1359" alt="IMG_7497" src="https://github.com/user-attachments/assets/89459430-533a-490a-9b4e-2747be6c23cf" />
 
 
 
